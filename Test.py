@@ -1,2 +1,0 @@
-x = ('bolololol')
-print(x)
