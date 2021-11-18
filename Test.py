@@ -1,0 +1,2 @@
+x = ('bolololol')
+print(x)
